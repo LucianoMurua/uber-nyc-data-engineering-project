@@ -26,3 +26,6 @@ More information about dataset:
 
 ## Data Model
 ![Uber Data Model](https://github.com/user-attachments/assets/e2f9a739-633f-46ec-a51c-f371a061e730)
+
+## BigQuery Model
+![image](https://github.com/user-attachments/assets/05a97701-c7e5-4430-af60-884758e2211c)
