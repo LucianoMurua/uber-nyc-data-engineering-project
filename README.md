@@ -29,3 +29,6 @@ More information about dataset:
 
 ## BigQuery Model
 ![image](https://github.com/user-attachments/assets/05a97701-c7e5-4430-af60-884758e2211c)
+
+## Looker Studio
+A brief view of the dashboard: https://drive.google.com/file/d/1ekrzqIbr7cdGycpyRBEjshHwBvOmA8Ag/view?usp=sharing
