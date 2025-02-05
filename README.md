@@ -7,7 +7,10 @@ In this project, a dataset with data on Uber trips in New York City was used. Th
 ![architecture](https://github.com/user-attachments/assets/c8acb26a-5945-42d5-9737-5b34b781852e)
 
 ## Technology used
- - Programming Language: Python
+
+### Programming Language
+- Python
+- SQL
 
 Google Cloud Platform
  1) Cloud Storage
