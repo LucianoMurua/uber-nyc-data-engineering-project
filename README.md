@@ -8,11 +8,11 @@ In this project, a dataset with data on Uber trips in New York City was used. Th
 
 ## Technology used
 
-### Programming Language
+#### Programming Language
 - Python
 - SQL
 
-Google Cloud Platform
+#### Google Cloud Platform
  1) Cloud Storage
  2) Compute Engine
  3) BigQuery
